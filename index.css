@@ -1,0 +1,28 @@
+#left1 {
+    float:left;
+    width:25%;
+    height:280px;
+}
+#left2{
+    float:left;
+    width:25%;
+    height:280px;
+}
+#right1{
+    float:right;
+    width:25%;
+    height:280px;
+}
+#right2{
+    float:right;
+    width:25%;
+    height:280px;
+}
+#content img {
+    top: 0px;
+    right: 10px;
+    border-radius: 40%;
+position: relative;
+margin-left: 5%;
+
+}
